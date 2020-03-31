@@ -1,0 +1,4 @@
+/home/yuki/下载/CLion-2019.3.4/clion-2019.3.4/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/home/yuki/Code/Computer Network/PacketGet"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/yuki/Code/Computer Network/PacketGet/cmake-build-debug

@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yuki/Code/Computer Network/PacketGet/main.cpp
+pcap/pcap.h
+-
+cstdio
+-
+iostream
+-
+time.h
+-
+cstring
+-
+cstdlib
+-
+map
+-
+
